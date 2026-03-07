@@ -20,23 +20,23 @@
       "id": "02",
       "name": "设计模式与架构模式",
       "status": "in_progress",
-      "progress": 25,
-      "score": 71.7,
-      "questions_total": 6,
-      "questions_correct": 4,
+      "progress": 90,
+      "score": 68.1,
+      "questions_total": 16,
+      "questions_correct": 11,
       "last_date": "2026-03-02",
       "subtopics": {
-        "GoF模式": "in_progress",
-        "CQRS": "not_started",
-        "Event Sourcing": "not_started",
-        "DDD": "not_started",
-        "六边形架构": "not_started"
+        "GoF模式": "completed",
+        "CQRS": "completed",
+        "Event Sourcing": "completed",
+        "DDD": "completed",
+        "六边形架构": "completed"
       }
     },
     {
       "id": "03",
       "name": "微服务架构",
-      "status": "locked",
+      "status": "not_started",
       "progress": 0,
       "score": null,
       "questions_total": 0,
@@ -52,7 +52,7 @@
     {
       "id": "04",
       "name": "分布式系统",
-      "status": "locked",
+      "status": "not_started",
       "progress": 0,
       "score": null,
       "questions_total": 0,
