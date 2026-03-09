@@ -1,166 +1,166 @@
 {
-  "modules": [
-    {
-      "id": "01",
-      "name": "系统设计",
-      "status": "completed",
-      "progress": 100,
-      "score": 98,
-      "questions_total": 14,
-      "questions_correct": 14,
-      "last_date": "2026-02-27",
-      "subtopics": {
-        "高可用设计": "completed",
-        "高并发架构": "completed",
-        "可扩展性": "completed",
-        "容量规划": "completed"
-      }
-    },
-    {
-      "id": "02",
-      "name": "设计模式与架构模式",
-      "status": "completed",
-      "progress": 100,
-      "score": 92,
-      "questions_total": 21,
-      "questions_correct": 16,
-      "last_date": "2026-03-09",
-      "subtopics": {
-        "GoF模式": "completed",
-        "CQRS": "completed",
-        "Event Sourcing": "completed",
-        "DDD": "completed",
-        "六边形架构": "completed"
-      }
-    },
-    {
-      "id": "03",
-      "name": "微服务架构",
-      "status": "not_started",
-      "progress": 0,
-      "score": null,
-      "questions_total": 0,
-      "questions_correct": 0,
-      "last_date": null,
-      "subtopics": {
-        "服务拆分策略": "not_started",
-        "服务治理": "not_started",
-        "API网关": "not_started",
-        "服务通信": "not_started"
-      }
-    },
-    {
-      "id": "04",
-      "name": "分布式系统",
-      "status": "not_started",
-      "progress": 0,
-      "score": null,
-      "questions_total": 0,
-      "questions_correct": 0,
-      "last_date": null,
-      "subtopics": {
-        "CAP理论": "not_started",
-        "一致性协议": "not_started",
-        "分布式事务": "not_started",
-        "分布式锁": "not_started"
-      }
-    },
-    {
-      "id": "05",
-      "name": "云原生架构",
-      "status": "locked",
-      "progress": 0,
-      "score": null,
-      "questions_total": 0,
-      "questions_correct": 0,
-      "last_date": null,
-      "subtopics": {
-        "容器化(Docker)": "not_started",
-        "编排(K8s)": "not_started",
-        "Service Mesh": "not_started",
-        "Serverless": "not_started"
-      }
-    },
-    {
-      "id": "06",
-      "name": "数据架构",
-      "status": "locked",
-      "progress": 0,
-      "score": null,
-      "questions_total": 0,
-      "questions_correct": 0,
-      "last_date": null,
-      "subtopics": {
-        "分库分表": "not_started",
-        "读写分离": "not_started",
-        "缓存策略": "not_started",
-        "数据湖": "not_started",
-        "数据一致性": "not_started"
-      }
-    },
-    {
-      "id": "07",
-      "name": "性能工程",
-      "status": "locked",
-      "progress": 0,
-      "score": null,
-      "questions_total": 0,
-      "questions_correct": 0,
-      "last_date": null,
-      "subtopics": {
-        "性能建模": "not_started",
-        "瓶颈分析": "not_started",
-        "全链路压测": "not_started",
-        "JVM/GC调优": "not_started"
-      }
-    },
-    {
-      "id": "08",
-      "name": "安全架构",
-      "status": "locked",
-      "progress": 0,
-      "score": null,
-      "questions_total": 0,
-      "questions_correct": 0,
-      "last_date": null,
-      "subtopics": {
-        "零信任架构": "not_started",
-        "OAuth2/OIDC": "not_started",
-        "威胁建模": "not_started",
-        "加密体系": "not_started"
-      }
-    },
-    {
-      "id": "09",
-      "name": "DevOps与平台工程",
-      "status": "locked",
-      "progress": 0,
-      "score": null,
-      "questions_total": 0,
-      "questions_correct": 0,
-      "last_date": null,
-      "subtopics": {
-        "CI/CD流水线": "not_started",
-        "IaC": "not_started",
-        "可观测性": "not_started"
-      }
-    },
-    {
-      "id": "10",
-      "name": "技术领导力",
-      "status": "locked",
-      "progress": 0,
-      "score": null,
-      "questions_total": 0,
-      "questions_correct": 0,
-      "last_date": null,
-      "subtopics": {
-        "ADR架构决策记录": "not_started",
-        "技术债管理": "not_started",
-        "架构评审": "not_started",
-        "团队协作": "not_started"
-      }
-    }
-  ],
-  "updated_at": "2026-03-09"
+	"modules": [
+		{
+			"id": "01",
+			"name": "系统设计",
+			"status": "completed",
+			"progress": 100,
+			"score": 98,
+			"questions_total": 14,
+			"questions_correct": 14,
+			"last_date": "2026-02-27",
+			"subtopics": {
+				"高可用设计": "completed",
+				"高并发架构": "completed",
+				"可扩展性": "completed",
+				"容量规划": "completed"
+			}
+		},
+		{
+			"id": "02",
+			"name": "设计模式与架构模式",
+			"status": "completed",
+			"progress": 100,
+			"score": 92,
+			"questions_total": 21,
+			"questions_correct": 16,
+			"last_date": "2026-03-09",
+			"subtopics": {
+				"GoF模式": "completed",
+				"CQRS": "completed",
+				"Event Sourcing": "completed",
+				"DDD": "completed",
+				"六边形架构": "completed"
+			}
+		},
+		{
+			"id": "03",
+			"name": "微服务架构",
+			"status": "not_started",
+			"progress": 0,
+			"score": null,
+			"questions_total": 0,
+			"questions_correct": 0,
+			"last_date": null,
+			"subtopics": {
+				"服务拆分策略": "not_started",
+				"服务治理": "not_started",
+				"API网关": "not_started",
+				"服务通信": "not_started"
+			}
+		},
+		{
+			"id": "04",
+			"name": "分布式系统",
+			"status": "not_started",
+			"progress": 0,
+			"score": null,
+			"questions_total": 0,
+			"questions_correct": 0,
+			"last_date": null,
+			"subtopics": {
+				"CAP理论": "not_started",
+				"一致性协议": "not_started",
+				"分布式事务": "not_started",
+				"分布式锁": "not_started"
+			}
+		},
+		{
+			"id": "05",
+			"name": "云原生架构",
+			"status": "locked",
+			"progress": 0,
+			"score": null,
+			"questions_total": 0,
+			"questions_correct": 0,
+			"last_date": null,
+			"subtopics": {
+				"容器化(Docker)": "not_started",
+				"编排(K8s)": "not_started",
+				"Service Mesh": "not_started",
+				"Serverless": "not_started"
+			}
+		},
+		{
+			"id": "06",
+			"name": "数据架构",
+			"status": "locked",
+			"progress": 0,
+			"score": null,
+			"questions_total": 0,
+			"questions_correct": 0,
+			"last_date": null,
+			"subtopics": {
+				"分库分表": "not_started",
+				"读写分离": "not_started",
+				"缓存策略": "not_started",
+				"数据湖": "not_started",
+				"数据一致性": "not_started"
+			}
+		},
+		{
+			"id": "07",
+			"name": "性能工程",
+			"status": "locked",
+			"progress": 0,
+			"score": null,
+			"questions_total": 0,
+			"questions_correct": 0,
+			"last_date": null,
+			"subtopics": {
+				"性能建模": "not_started",
+				"瓶颈分析": "not_started",
+				"全链路压测": "not_started",
+				"JVM/GC调优": "not_started"
+			}
+		},
+		{
+			"id": "08",
+			"name": "安全架构",
+			"status": "locked",
+			"progress": 0,
+			"score": null,
+			"questions_total": 0,
+			"questions_correct": 0,
+			"last_date": null,
+			"subtopics": {
+				"零信任架构": "not_started",
+				"OAuth2/OIDC": "not_started",
+				"威胁建模": "not_started",
+				"加密体系": "not_started"
+			}
+		},
+		{
+			"id": "09",
+			"name": "DevOps与平台工程",
+			"status": "locked",
+			"progress": 0,
+			"score": null,
+			"questions_total": 0,
+			"questions_correct": 0,
+			"last_date": null,
+			"subtopics": {
+				"CI/CD流水线": "not_started",
+				"IaC": "not_started",
+				"可观测性": "not_started"
+			}
+		},
+		{
+			"id": "10",
+			"name": "技术领导力",
+			"status": "locked",
+			"progress": 0,
+			"score": null,
+			"questions_total": 0,
+			"questions_correct": 0,
+			"last_date": null,
+			"subtopics": {
+				"ADR架构决策记录": "not_started",
+				"技术债管理": "not_started",
+				"架构评审": "not_started",
+				"团队协作": "not_started"
+			}
+		}
+	],
+	"updated_at": "2026-03-09"
 }
