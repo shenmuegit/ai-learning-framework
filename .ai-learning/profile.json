@@ -1,16 +1,16 @@
 {
   "level": "L1",
   "level_name": "初阶架构",
-  "total_sessions": 9,
-  "total_questions": 30,
-  "correct_rate": 0.71,
+  "total_sessions": 12,
+  "total_questions": 46,
+  "correct_rate": 0.72,
   "strong_areas": ["01-系统设计"],
-  "weak_areas": ["02-设计模式与架构模式-DDD", "02-设计模式与架构模式-六边形架构"],
-  "last_session": "2026-03-02",
-  "current_topic": "02-设计模式与架构模式",
-  "current_subtopic": "六边形架构",
+  "weak_areas": ["02-设计模式与架构模式-DDD","02-设计模式与架构模式-六边形架构"],
+  "last_session": "2026-03-09",
+  "current_topic": "03-微服务架构",
+  "current_subtopic": "服务拆分策略",
   "streak_days": 1,
   "total_study_days": 2,
   "created_at": "2026-02-26",
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09"
 }

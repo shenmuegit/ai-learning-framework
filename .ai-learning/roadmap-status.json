@@ -19,12 +19,12 @@
     {
       "id": "02",
       "name": "设计模式与架构模式",
-      "status": "in_progress",
-      "progress": 90,
-      "score": 68.1,
-      "questions_total": 16,
-      "questions_correct": 11,
-      "last_date": "2026-03-02",
+      "status": "completed",
+      "progress": 100,
+      "score": 92,
+      "questions_total": 21,
+      "questions_correct": 16,
+      "last_date": "2026-03-09",
       "subtopics": {
         "GoF模式": "completed",
         "CQRS": "completed",
@@ -162,5 +162,5 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09"
 }
