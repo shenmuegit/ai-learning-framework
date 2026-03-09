@@ -36,14 +36,14 @@
 		{
 			"id": "03",
 			"name": "微服务架构",
-			"status": "not_started",
-			"progress": 0,
+			"status": "in_progress",
+			"progress": 30,
 			"score": null,
-			"questions_total": 0,
-			"questions_correct": 0,
-			"last_date": null,
+			"questions_total": 4,
+			"questions_correct": 2,
+			"last_date": "2026-03-09",
 			"subtopics": {
-				"服务拆分策略": "not_started",
+				"服务拆分策略": "in_progress",
 				"服务治理": "not_started",
 				"API网关": "not_started",
 				"服务通信": "not_started"

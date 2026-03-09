@@ -1,15 +1,16 @@
 {
 	"level": "L1",
 	"level_name": "初阶架构",
-	"total_sessions": 12,
-	"total_questions": 46,
-	"correct_rate": 0.72,
+	"total_sessions": 15,
+	"total_questions": 50,
+	"correct_rate": 0.74,
 	"strong_areas": [
 		"01-系统设计"
 	],
 	"weak_areas": [
 		"02-设计模式与架构模式-DDD",
-		"02-设计模式与架构模式-六边形架构"
+		"02-设计模式与架构模式-六边形架构",
+		"03-微服务架构-关键交易语义表设计"
 	],
 	"last_session": "2026-03-09",
 	"current_topic": "03-微服务架构",
