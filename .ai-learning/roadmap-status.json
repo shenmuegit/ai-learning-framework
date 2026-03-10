@@ -37,11 +37,11 @@
 			"id": "03",
 			"name": "微服务架构",
 			"status": "in_progress",
-			"progress": 30,
+			"progress": 40,
 			"score": null,
-			"questions_total": 4,
-			"questions_correct": 2,
-			"last_date": "2026-03-09",
+			"questions_total": 5,
+			"questions_correct": 4,
+			"last_date": "2026-03-10",
 			"subtopics": {
 				"服务拆分策略": "in_progress",
 				"服务治理": "not_started",
@@ -162,5 +162,5 @@
 			}
 		}
 	],
-	"updated_at": "2026-03-09"
+	"updated_at": "2026-03-10"
 }
