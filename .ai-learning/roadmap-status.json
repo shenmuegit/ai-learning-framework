@@ -39,9 +39,9 @@
 			"status": "in_progress",
 			"progress": 40,
 			"score": null,
-			"questions_total": 5,
-			"questions_correct": 4,
-			"last_date": "2026-03-10",
+			"questions_total": 6,
+			"questions_correct": 5,
+			"last_date": "2026-03-11",
 			"subtopics": {
 				"服务拆分策略": "in_progress",
 				"服务治理": "not_started",
@@ -162,5 +162,5 @@
 			}
 		}
 	],
-	"updated_at": "2026-03-10"
+	"updated_at": "2026-03-11"
 }
