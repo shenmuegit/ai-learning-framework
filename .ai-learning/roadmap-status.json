@@ -39,12 +39,12 @@
 			"status": "in_progress",
 			"progress": 40,
 			"score": null,
-			"questions_total": 6,
-			"questions_correct": 5,
-			"last_date": "2026-03-11",
+			"questions_total": 7,
+			"questions_correct": 6,
+			"last_date": "2026-03-12",
 			"subtopics": {
 				"服务拆分策略": "in_progress",
-				"服务治理": "not_started",
+				"服务治理": "in_progress",
 				"API网关": "not_started",
 				"服务通信": "not_started"
 			}
@@ -162,5 +162,5 @@
 			}
 		}
 	],
-	"updated_at": "2026-03-11"
+	"updated_at": "2026-03-12"
 }
