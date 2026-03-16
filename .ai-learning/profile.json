@@ -1,8 +1,8 @@
 {
 	"level": "L1",
 	"level_name": "初阶架构",
-	"total_sessions": 18,
-	"total_questions": 53,
+	"total_sessions": 19,
+	"total_questions": 54,
 	"correct_rate": 0.73,
 	"strong_areas": [
 		"01-系统设计"
@@ -12,13 +12,14 @@
 		"02-设计模式与架构模式-六边形架构",
 		"03-微服务架构-关键交易语义表设计",
 		"03-微服务架构-预占释放语义与并发保护",
-		"03-微服务架构-优惠券补偿双分支建模"
+		"03-微服务架构-优惠券补偿双分支建模",
+		"03-微服务架构-灰度放量多指标闸门"
 	],
-	"last_session": "2026-03-12",
+	"last_session": "2026-03-16",
 	"current_topic": "03-微服务架构",
 	"current_subtopic": "服务治理",
-	"streak_days": 4,
-	"total_study_days": 5,
+	"streak_days": 1,
+	"total_study_days": 6,
 	"created_at": "2026-02-26",
-	"updated_at": "2026-03-12"
+	"updated_at": "2026-03-16"
 }
