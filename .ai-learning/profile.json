@@ -1,8 +1,8 @@
 {
 	"level": "L1",
 	"level_name": "初阶架构",
-	"total_sessions": 19,
-	"total_questions": 54,
+	"total_sessions": 20,
+	"total_questions": 55,
 	"correct_rate": 0.73,
 	"strong_areas": [
 		"01-系统设计"
@@ -13,13 +13,14 @@
 		"03-微服务架构-关键交易语义表设计",
 		"03-微服务架构-预占释放语义与并发保护",
 		"03-微服务架构-优惠券补偿双分支建模",
-		"03-微服务架构-灰度放量多指标闸门"
+		"03-微服务架构-灰度放量多指标闸门",
+		"03-微服务架构-API网关-灰度路由粘性一致性"
 	],
-	"last_session": "2026-03-16",
+	"last_session": "2026-03-17",
 	"current_topic": "03-微服务架构",
-	"current_subtopic": "服务治理",
-	"streak_days": 1,
-	"total_study_days": 6,
+	"current_subtopic": "API网关",
+	"streak_days": 2,
+	"total_study_days": 7,
 	"created_at": "2026-02-26",
-	"updated_at": "2026-03-16"
+	"updated_at": "2026-03-17"
 }
