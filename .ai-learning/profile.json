@@ -16,11 +16,11 @@
 		"03-微服务架构-灰度放量多指标闸门",
 		"03-微服务架构-API网关-灰度路由粘性一致性"
 	],
-	"last_session": "2026-03-19",
-	"current_topic": "03-微服务架构",
-	"current_subtopic": "服务通信",
+	"last_session": "2026-03-23",
+	"current_topic": "04-分布式系统",
+	"current_subtopic": "CAP理论",
 	"streak_days": 4,
 	"total_study_days": 9,
 	"created_at": "2026-02-26",
-	"updated_at": "2026-03-21"
+	"updated_at": "2026-03-23"
 }

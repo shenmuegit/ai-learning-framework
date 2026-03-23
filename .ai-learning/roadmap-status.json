@@ -36,30 +36,30 @@
 		{
 			"id": "03",
 			"name": "微服务架构",
-			"status": "in_progress",
-			"progress": 40,
+			"status": "completed",
+			"progress": 100,
 			"score": null,
 			"questions_total": 14,
 			"questions_correct": 13,
 			"last_date": "2026-03-23",
 			"subtopics": {
-				"服务拆分策略": "in_progress",
-				"服务治理": "in_progress",
-				"API网关": "in_progress",
-				"服务通信": "in_progress"
+				"服务拆分策略": "completed",
+				"服务治理": "completed",
+				"API网关": "completed",
+				"服务通信": "completed"
 			}
 		},
 		{
 			"id": "04",
 			"name": "分布式系统",
-			"status": "not_started",
+			"status": "in_progress",
 			"progress": 0,
 			"score": null,
-			"questions_total": 0,
+			"questions_total": 12,
 			"questions_correct": 0,
 			"last_date": null,
 			"subtopics": {
-				"CAP理论": "not_started",
+				"CAP理论": "in_progress",
 				"一致性协议": "not_started",
 				"分布式事务": "not_started",
 				"分布式锁": "not_started"
