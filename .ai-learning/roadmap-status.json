@@ -56,11 +56,11 @@
 			"progress": 25,
 			"score": null,
 			"questions_total": 12,
-			"questions_correct": 1,
-			"last_date": "2026-03-24",
+			"questions_correct": 4,
+			"last_date": "2026-03-25",
 			"subtopics": {
 				"CAP理论": "completed",
-				"一致性协议": "not_started",
+				"一致性协议": "in_progress",
 				"分布式事务": "not_started",
 				"分布式锁": "not_started"
 			}
@@ -162,5 +162,5 @@
 			}
 		}
 	],
-	"updated_at": "2026-03-24"
+	"updated_at": "2026-03-25"
 }
