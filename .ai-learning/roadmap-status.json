@@ -56,8 +56,8 @@
 			"progress": 50,
 			"score": null,
 			"questions_total": 12,
-			"questions_correct": 8,
-			"last_date": "2026-03-27",
+			"questions_correct": 9,
+			"last_date": "2026-03-28",
 			"subtopics": {
 				"CAP理论": "completed",
 				"一致性协议": "completed",
@@ -162,5 +162,5 @@
 			}
 		}
 	],
-	"updated_at": "2026-03-27"
+	"updated_at": "2026-03-28"
 }
