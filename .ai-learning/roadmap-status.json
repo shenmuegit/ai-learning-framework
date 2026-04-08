@@ -53,16 +53,16 @@
 			"id": "04",
 			"name": "分布式系统",
 			"status": "in_progress",
-			"progress": 50,
+			"progress": 75,
 			"score": null,
-			"questions_total": 13,
-			"questions_correct": 13,
-			"last_date": "2026-04-07",
+			"questions_total": 15,
+			"questions_correct": 15,
+			"last_date": "2026-04-08",
 			"subtopics": {
 				"CAP理论": "completed",
 				"一致性协议": "completed",
-				"分布式事务": "in_progress",
-				"分布式锁": "not_started"
+				"分布式事务": "completed",
+				"分布式锁": "in_progress"
 			}
 		},
 		{
@@ -162,5 +162,5 @@
 			}
 		}
 	],
-	"updated_at": "2026-04-07"
+	"updated_at": "2026-04-08"
 }
